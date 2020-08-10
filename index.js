@@ -1,4 +1,4 @@
-const URL="https://turma6b-julianafb.herokuapp.com/"
+const URL="https://turma6b-julianafbsilva.herokuapp.com/"
 function validar(){
 
 	var txtCPF = document.getElementById("txtCpf").value;
